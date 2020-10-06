@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WazirX</title>
+
+
+    <meta name="keywords"
+        content="bitcoin, cryptocurrency, Exchange, btc, eth, ltc, bch, xrp, buy bitcoin India, bitcoin wallet, buy bitcoin, buy btc, buy ripple, buy ethereum, inr to btc, inr to ripple, eth to inr, bitcoin exchange, bitcoin inr conversion, btc price inr, cheap btc, cheap eth, lowest fee crypto exchange, receive bitcoin india, buy ripple india"
+        data-rdm="">
+    <meta name="description"
+        content="WazirX is the most trusted and cheapest place to buy, sell, and trade Bitcoin (BTC), Ripple (XRP), Ethereum (ETH), Tron (TRX), Bitcoin Cash (BCH), and more crypto assets in India. Trade in USDT, BTC or INR market with high volume and liquidity!"
+        data-rdm="">
+    <meta property="og:title" content="Buy Bitcoin in India | Cryptocurrency Exchange | Bitcoin Trading | WazirX"
+        data-rdm="">
+    <meta property="og:description"
+        content="Buy and sell bitcoin with WazirX, India's most trusted cryptocurrency exchange. Trade in USDT, BTC or INR market with high volume and liquidity, With WazirX you can buy, sell &amp; trade digital currencies with amazing ease, confidence and trust."
+        data-rdm="">
+    <meta property="og:url" content="https://wazirx.site/" data-rdm="">
+    <meta property="og:type" content="website" data-rdm="">
+    <meta property="og:image" content="https://wazirx.site/og_image.png" data-rdm="">
+    <meta property="og:site_name" content="WazirX" data-rdm="">
+
+    <link href="style.css" rel="stylesheet">
+
+
+
+</head>
+<body>
+    <section>
+        <div class="container">
+
+            <div class="sc-iELTvK iHVfgq col-md-4 col-xs-4"><img src="img/art-line.png" alt="artLine"></div>
+            <span class="sc-elJkPf cSUzHw"> Now open for all countries</span>
+            <span font-size="48px" color="#ffffff" font-style="italic" class="sc-bwzfXH ivmqk">WazirX is India’s most trusted Bitcoin Exchange</span>
+            <span font-size="16px" color="#ffffff" class="sc-bwzfXH ccsIKh">Buy, Sell &amp; Trade Bitcoin, Ethereum, Ripple, Litecoin and more cryptocurrencies in India. Start trading now!</span>
+            <button width="fit-content" onclick="window.location='https://wazirx.com/invite/ube275z2'" height="fit-content" class="sc-dnqmqq sc-kafWEX qVfZi"><span color="#7C6E1B" font-size="16px" class="sc-bwzfXH fGKBHy">Sign Up Now</span></button>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+</div>
+</section>
+
+
+
+</body>
+</html>
